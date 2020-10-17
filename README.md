@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click to see [Pomodoro Clock by CJH](https://calvinjamesheath.github.io/Pomodoro-Clock/)
 
 ## Available Scripts
 
