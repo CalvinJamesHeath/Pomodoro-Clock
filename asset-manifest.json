@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pomodoro-Clock/static/css/main.02b57bc0.chunk.css",
+    "main.js": "/Pomodoro-Clock/static/js/main.531cf161.chunk.js",
+    "main.js.map": "/Pomodoro-Clock/static/js/main.531cf161.chunk.js.map",
+    "runtime-main.js": "/Pomodoro-Clock/static/js/runtime-main.46c75fa3.js",
+    "runtime-main.js.map": "/Pomodoro-Clock/static/js/runtime-main.46c75fa3.js.map",
+    "static/js/2.4c7eeff7.chunk.js": "/Pomodoro-Clock/static/js/2.4c7eeff7.chunk.js",
+    "static/js/2.4c7eeff7.chunk.js.map": "/Pomodoro-Clock/static/js/2.4c7eeff7.chunk.js.map",
+    "index.html": "/Pomodoro-Clock/index.html",
+    "precache-manifest.950cfe54e76243c1994c47562b826033.js": "/Pomodoro-Clock/precache-manifest.950cfe54e76243c1994c47562b826033.js",
+    "service-worker.js": "/Pomodoro-Clock/service-worker.js",
+    "static/css/main.02b57bc0.chunk.css.map": "/Pomodoro-Clock/static/css/main.02b57bc0.chunk.css.map",
+    "static/js/2.4c7eeff7.chunk.js.LICENSE.txt": "/Pomodoro-Clock/static/js/2.4c7eeff7.chunk.js.LICENSE.txt",
+    "static/media/pomodoro.img.png": "/Pomodoro-Clock/static/media/pomodoro.img.14bf5171.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46c75fa3.js",
+    "static/js/2.4c7eeff7.chunk.js",
+    "static/css/main.02b57bc0.chunk.css",
+    "static/js/main.531cf161.chunk.js"
+  ]
+}
