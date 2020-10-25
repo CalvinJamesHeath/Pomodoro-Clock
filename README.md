@@ -1,4 +1,5 @@
-Click to see [Pomodoro Clock by CJH](https://calvinjamesheath.github.io/Pomodoro-Clock/)
+# Pomodoro Clock by CJH
+![](https://github.com/CalvinJamesHeath/Pomodoro-Clock/blob/main/src/images/imgPomodoroClockFinal.png)
 
 ## Available Scripts
 
