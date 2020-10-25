@@ -1,4 +1,4 @@
-# Functional Pomodoro Clock by CJH
+# Functional Pomodoro Clock with React by CJH
 ![](https://github.com/CalvinJamesHeath/Pomodoro-Clock/blob/main/src/images/imgPomodoroClockFinal.png)
 
 ## Available Scripts
